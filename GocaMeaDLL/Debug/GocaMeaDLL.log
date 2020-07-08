@@ -1,0 +1,9 @@
+﻿D:\ToolKit\VS2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GocaMeaDLL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GocaCal.cpp
+D:\WorkProject\614项目\GOCA\GOCA机箱编程函数\GocaMeaDLL\GocaMeaDLL\GocaCal.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  GocaMea.cpp
+D:\WorkProject\614项目\GOCA\GOCA机箱编程函数\GocaMeaDLL\GocaMeaDLL\GocaMea.h(6,1): warning C4005: “DLL_EXPORT”: 宏重定义
+D:\WorkProject\614项目\GOCA\GOCA机箱编程函数\GocaMeaDLL\GocaMeaDLL\GocaMea.cpp(1): message : 参见“DLL_EXPORT”的前一个定义
+  正在生成代码...
+    正在创建库 D:\WorkProject\614项目\GOCA\GOCA机箱编程函数\GocaMeaDLL\Debug\GocaMea.lib 和对象 D:\WorkProject\614项目\GOCA\GOCA机箱编程函数\GocaMeaDLL\Debug\GocaMea.exp
+  GocaMeaDLL.vcxproj -> D:\WorkProject\614项目\GOCA\GOCA机箱编程函数\GocaMeaDLL\Debug\GocaMea.dll
