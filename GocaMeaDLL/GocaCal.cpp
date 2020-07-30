@@ -224,8 +224,6 @@ double* GocaWrapToggle(double input[], int points, int toggle) {
 	}
 	// wrap 卷绕
 	else if (toggle == WRAP) {
-		int cycle_1 = 0;
-		int cycle_2 = 0;
 
 		for (int i = 0; i < points; i++) {
 			// 周期为（2n+1）* pi
